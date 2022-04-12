@@ -48,7 +48,7 @@ sc_mice_ob <- list("CarPas_WtKo"=sc_m_carpas_wtko,  "CarPas_Wt"=sc_m_carpas_wt, 
 
 
 
-# Define server logic required to draw a histogram
+# Define server logic
 shinyServer(function(input, output) {
   
   
