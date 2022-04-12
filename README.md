@@ -1,14 +1,14 @@
 # EBF1_CarPaS_BoneMarrowNiche__shinyapp
 
 
-### Contents:
+### Publication:
 
 - Derecka, M., Herman, J.S., Cauchy, P. et al. EBF1-deficient bone marrow stroma elicits persistent changes in HSC potential. Nat Immunol 21, 261–273 (2020). https://doi.org/10.1038/s41590-020-0595-7 
   
-  Shiny app site:  
+  #### Shiny app site:  
   http://hematopoietic-niche-regulation-by-ebf1.ie-freiburg.mpg.de.   
 
-  Additional data:  
+  #### Additional data:  
   https://zenodo.org/record/6451736#.YlVcVC0Rqso. 
 
 
