@@ -1,4 +1,4 @@
-# EBF1_CarPaS_BoneMarrowNiche__shinyapp
+# shinyapp__BoneMarrowNiche for Ebf1 wild type and knockout
 
 
 ### Publication:
